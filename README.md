@@ -1,7 +1,8 @@
-# Portale Open Data - Comune di Alessandria
 <div align="left">
 <img width="122" height="118" src="img/stemma-trasparente-piccolo.png">
 </div>
+
+# Portale Open Data - Comune di Alessandria
 
 ## Descrizione
 In quesa pagina saranno pubblicati tutti i dati aperti relativi
