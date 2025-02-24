@@ -15,7 +15,8 @@ al Comune di Alessandria, come da direttiva AGID.
 - [Licenza](#licenza)
 
 ## Struttura Repository
-Ogni dataset è contenuto in una specifica cartella.
+I dataset sono contenuti all'interno della cartella [dataset](dataset).
+Ogni dataset è contenuto in una specifica sotto cartella.
 La cartella è nominata come il dataset contenuto.
 
 ## Formato Dati
