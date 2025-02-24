@@ -6,10 +6,10 @@
 Il dataset contiene gli alberi gestiti dal Servizio Verde Pubblico.  
 E' fornito il file in formato tabellare CSV e in formato geografico GEOJSON.  
 
-Set di caratteri: UTF-8  
-Separatore di elenco: ;  
-Separatore decimale: .  
-Delimitatore stringa: "
+Set di caratteri: `UTF-8`  
+Separatore di elenco: `;` (punto e virgola)  
+Separatore decimale: `.` (punto)  
+Delimitatore stringa: `"` (doppio apice)
 
 ## Struttura dati
 
