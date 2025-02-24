@@ -9,7 +9,7 @@ E' fornito il file in formato tabellare CSV e in formato geografico GEOJSON.
 Set di caratteri: `UTF-8`  
 Separatore di elenco: `;` (punto e virgola)  
 Separatore decimale: `.` (punto)  
-Delimitatore stringa: `"` (doppio apice)
+Delimitatore stringa: `"` (doppio apice, quando necessario)
 
 ## Struttura dati
 
