@@ -4,7 +4,8 @@
 ## Descrizione
 
 Il dataset contiene i numeri civici presenti sul territorio del comune.  
-E' fornito il file in formato tabellare CSV e in formato geografico GEOJSON.  
+E' fornito il file in formato tabellare CSV e in formato geografico GEOJSON  
+e le versioni in formato compresso ZIP degli stessi.  
 
 Set di caratteri: `UTF-8`  
 Separatore di elenco: `;` (punto e virgola)  
