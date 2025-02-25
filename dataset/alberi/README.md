@@ -38,6 +38,10 @@ Delimitatore stringa: `"` (doppio apice, quando necessario)
 - File GEOJSON:  
   Contiene le stesse informazione del file CSV ma già in formato geografico.
 
+## Frequenza di aggiornamento
+
+_Annuale_
+
 ## Data ultimo aggiornamento
 
 **2025-02-06**
