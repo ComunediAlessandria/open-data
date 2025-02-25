@@ -24,6 +24,10 @@ Delimitatore stringa: `"` (doppio apice, quando necessario)
   ***DescrizioneBreve***: Canale di ricezione della segnalazione (STRING)  
   ***Categoria***: Categoria della segnalazione (STRING)  
 
+## Frequenza di aggiornamento
+
+_Annuale_
+
 ## Data ultimo aggiornamento
 
 **2025-02-06**
