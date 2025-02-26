@@ -4,7 +4,7 @@
 ## Descrizione
 
 Il dataset contiene i numeri civici presenti sul territorio del comune.  
-E' fornito il file in formato tabellare CSV e in formato geografico GEOJSON  
+Sono forniti i file in formato tabellare CSV ed in formato geografico GEOPACKAGE  
 e le versioni in formato compresso ZIP degli stessi.  
 
 Set di caratteri: `UTF-8`  
@@ -27,8 +27,8 @@ Delimitatore stringa: `"` (doppio apice, quando necessario)
   ***CoordX***: Longitudine del numero civico, SR EPSG:3003 - Monte Mario / Italy zone 1 (DOUBLE)  
   ***CoordY***: Latitudine del numero civico, SR EPSG:3003 - Monte Mario / Italy zone 1 (DOUBLE)  
 
-- File GEOJSON:  
-  Contiene le stesse informazione del file CSV ma già in formato geografico.
+- File GPKG:  
+  Contiene le stesse informazione del file CSV ma già in formato geografico GEOPACKAGE.
 
 ## Frequenza di aggiornamento
 
