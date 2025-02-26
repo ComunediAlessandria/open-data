@@ -4,7 +4,7 @@
 ## Descrizione
 
 Il dataset contiene gli alberi gestiti dal Servizio Verde Pubblico.  
-E' fornito il file in formato tabellare CSV e in formato geografico GEOJSON  
+Sono fornitio i file in formato tabellare CSV ed in formato geografico GEOPACKAGE  
 e le versioni in formato compresso ZIP degli stessi.  
 
 Set di caratteri: `UTF-8`  
@@ -35,8 +35,8 @@ Delimitatore stringa: `"` (doppio apice, quando necessario)
   ***CoordX***: Longitudine dell'albero, SR EPSG:3003 - Monte Mario / Italy zone 1 (DOUBLE)  
   ***CoordY***: Latitudine dell'albero, SR EPSG:3003 - Monte Mario / Italy zone 1 (DOUBLE)  
 
-- File GEOJSON:  
-  Contiene le stesse informazione del file CSV ma già in formato geografico.
+- File GPKG:  
+  Contiene le stesse informazione del file CSV ma già in formato geografico GEOPACKAGE.
 
 ## Frequenza di aggiornamento
 
