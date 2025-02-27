@@ -23,7 +23,7 @@ La cartella è nominata come il dataset contenuto.
 Il formato dati è specificato per ogni dataset
 all'interno della propria cartella.
 Solitamente sono presenti i formati CSV per i dati tabellari
-e i formati CSV e GEOJSON per i dati geografici.
+e i formati CSV e GEOPACKAGE per i dati geografici.
 
 ## Aggiornamento dati
 I dati sono aggiornati generalmente con cadenza annuale.
