@@ -25,14 +25,14 @@
   <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-27</dct:modified>
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-27</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dcat:dataset rdf:resource="https://github.com/ComunediAlessandria/open-data//segnalazioni-municipium"/>
-  <dcat:dataset rdf:resource="https://github.com/ComunediAlessandria/open-data//numeri-civici"/>
-  <dcat:dataset rdf:resource="https://github.com/ComunediAlessandria/open-data//alberi"/>
+  <dcat:dataset rdf:resource="https://github.com/ComunediAlessandria/open-data/segnalazioni-municipium"/>
+  <dcat:dataset rdf:resource="https://github.com/ComunediAlessandria/open-data/numeri-civici"/>
+  <dcat:dataset rdf:resource="https://github.com/ComunediAlessandria/open-data/alberi"/>
   </dcatapit:Catalog>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI">
     <skos:prefLabel>Popolazione e società</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://github.com/ComunediAlessandria/open-data//segnalazioni-municipium">
+  <dcatapit:Dataset rdf:about="https://github.com/ComunediAlessandria/open-data/segnalazioni-municipium">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
@@ -72,13 +72,13 @@
     <dcat:keyword>Segnalazioni</dcat:keyword>
     <dcat:keyword>Malfunzionamenti</dcat:keyword>
     <dcat:keyword>Problematiche</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data//segnalazioni-municipium/csv2"/>
-    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data//segnalazioni-municipium/zip3"/>
+    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data/segnalazioni-municipium/csv2"/>
+    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data/segnalazioni-municipium/zip3"/>
   </dcatapit:Dataset>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/SOCI">
     <skos:prefLabel>Popolazione e società</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://github.com/ComunediAlessandria/open-data//numeri-civici">
+  <dcatapit:Dataset rdf:about="https://github.com/ComunediAlessandria/open-data/numeri-civici">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
@@ -118,15 +118,15 @@
     <dcat:keyword>Numeri civici</dcat:keyword>
     <dcat:keyword>Toponomastica</dcat:keyword>
     <dcat:keyword>Territorio</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data//numeri-civici/csv4"/>
-    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data//numeri-civici/zip5"/>
-    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data//numeri-civici/gdb6"/>
-    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data//numeri-civici/zip7"/>
+    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data/numeri-civici/csv4"/>
+    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data/numeri-civici/zip5"/>
+    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data/numeri-civici/gdb6"/>
+    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data/numeri-civici/zip7"/>
   </dcatapit:Dataset>
   <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/ENVI">
     <skos:prefLabel>Ambiente</skos:prefLabel>
   </skos:Concept>
-  <dcatapit:Dataset rdf:about="https://github.com/ComunediAlessandria/open-data//alberi">
+  <dcatapit:Dataset rdf:about="https://github.com/ComunediAlessandria/open-data/alberi">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
@@ -166,12 +166,12 @@
     <dcat:keyword>Alberi</dcat:keyword>
     <dcat:keyword>Verde pubblico</dcat:keyword>
     <dcat:keyword>Territorio</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data//alberi/csv8"/>
-    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data//alberi/zip9"/>
-    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data//alberi/gdb10"/>
-    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data//alberi/zip11"/>
+    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data/alberi/csv8"/>
+    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data/alberi/zip9"/>
+    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data/alberi/gdb10"/>
+    <dcat:distribution rdf:resource="https://github.com/ComunediAlessandria/open-data/alberi/zip11"/>
   </dcatapit:Dataset>
-  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data//segnalazioni-municipium/csv2">
+  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/segnalazioni-municipium/csv2">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/segnalazioni-municipium/segnalazioni-municipium.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
@@ -186,7 +186,7 @@
     <dct:title>Segnalazioni.CSV</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data//segnalazioni-municipium/zip3">
+  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/segnalazioni-municipium/zip3">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/segnalazioni-municipium/segnalazioni-municipium.csv.zip"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
@@ -201,7 +201,7 @@
     <dct:title>Segnalazioni.csv.ZIP</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data//numeri-civici/csv4">
+  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/numeri-civici/csv4">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/numeri-civici/numeri-civici.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
@@ -216,7 +216,7 @@
     <dct:title>NumeriCivici.CSV</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data//numeri-civici/zip5">
+  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/numeri-civici/zip5">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/numeri-civici/numeri-civici.csv.zip"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
@@ -231,7 +231,7 @@
     <dct:title>NumeriCivici.csv.ZIP</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data//numeri-civici/gdb6">
+  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/numeri-civici/gdb6">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/numeri-civici/numeri-civici.gpkg"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
@@ -246,7 +246,7 @@
     <dct:title>NumeriCivici.gpkg</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data//numeri-civici/zip7">
+  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/numeri-civici/zip7">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/numeri-civici/numeri-civici.gpkg.zip"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
@@ -261,7 +261,7 @@
     <dct:title>NumeriCivici.gpkg.ZIP</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data//alberi/csv8">
+  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/alberi/csv8">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/alberi/alberi.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
@@ -276,7 +276,7 @@
     <dct:title>Alberi.CSV</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data//alberi/zip9">
+  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/alberi/zip9">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/alberi/alberi.csv.zip"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
@@ -291,7 +291,7 @@
     <dct:title>Alberi.csv.ZIP</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data//alberi/gdb10">
+  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/alberi/gdb10">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/alberi/alberi.gpkg"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
@@ -306,7 +306,7 @@
     <dct:title>Alberi.gpkg</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data//alberi/zip11">
+  <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/alberi/zip11">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/alberi/alberi.gpkg.zip"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
