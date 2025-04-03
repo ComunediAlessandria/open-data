@@ -15,7 +15,7 @@ Delimitatore stringa: `"` (doppio apice, quando necessario)
 ## Struttura dati
 
 - File CSV:  
-  ***CodiceVia***: Codice anagrafico della via, relativo allo stradario dell'ente (INTEGER)  
+  ***CodiceVia***: Codice univoco dell'area di circolazione all'interno dell'ente (INTEGER)  
   ***DUG***: DUG del numero civico (STRING)  
   ***DUF***: DUF del numero civico (STRING)  
   ***CAP***: CAP del numero civico (STRING)  
