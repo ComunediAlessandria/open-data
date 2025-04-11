@@ -22,7 +22,7 @@
       <dct:title>Data Theme Vocabulary</dct:title>
     </skos:ConceptScheme>
   </dcat:themeTaxonomy>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-02</dct:modified>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-11</dct:modified>
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-27</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
   <dcat:dataset rdf:resource="https://github.com/ComunediAlessandria/open-data/segnalazioni-municipium"/>
@@ -39,7 +39,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
     <dct:license/>
     <dct:title>Segnalazioni Municipium</dct:title>
-    <dcat:landingPage rdf:resource="https://github.com/ComunediAlessandria/open-data/blob/main/dataset/segnalazioni-municipium/"/>
+    <dcat:landingPage rdf:resource="https://github.com/ComunediAlessandria/open-data/tree/main/dataset/segnalazioni-municipium/"/>
     <dct:description>Segnalazioni giunte attraverso l'app Municipium</dct:description>
     <dct:identifier>c_a182:segnalazioni-municipium</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
@@ -85,7 +85,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
     <dct:license/>
     <dct:title>Numeri Civici</dct:title>
-    <dcat:landingPage rdf:resource="https://github.com/ComunediAlessandria/open-data/blob/main/dataset/numeri-civici/"/>
+    <dcat:landingPage rdf:resource="https://github.com/ComunediAlessandria/open-data/tree/main/dataset/numeri-civici/"/>
     <dct:description>Numeri civici presenti sul territorio comunale</dct:description>
     <dct:identifier>c_a182:numeri-civici</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
@@ -133,7 +133,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
     <dct:license/>
     <dct:title>Alberi</dct:title>
-    <dcat:landingPage rdf:resource="https://github.com/ComunediAlessandria/open-data/blob/main/dataset/alberi/"/>
+    <dcat:landingPage rdf:resource="https://github.com/ComunediAlessandria/open-data/tree/main/dataset/alberi/"/>
     <dct:description>Alberi presenti sul territorio gestiti dall'ente</dct:description>
     <dct:identifier>c_a182:alberi</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
@@ -181,7 +181,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
     <dct:license/>
     <dct:title>Viario</dct:title>
-    <dcat:landingPage rdf:resource="https://github.com/ComunediAlessandria/open-data/blob/main/dataset/viario/"/>
+    <dcat:landingPage rdf:resource="https://github.com/ComunediAlessandria/open-data/tree/main/dataset/viario/"/>
     <dct:description>Viario comunale</dct:description>
     <dct:identifier>c_a182:viario</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
