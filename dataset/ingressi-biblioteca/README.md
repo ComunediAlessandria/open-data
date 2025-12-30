@@ -20,7 +20,8 @@ Delimitatore stringa: `"` (doppio apice, quando necessario)
   ***DiCui***: Numero degli ingressi riferita alle sale specifiche (INTEGER)  
   ***LibriPrestati***: Numero totale di libri concessi in prestito (INTEGER)  
   ***NuoveIscrizioni***: Numero di nuove iscrizioni alla biblioteca (INTEGER)  
-  ***NuoveIscrizioniMLOL***: Numero di nuove iscrizioni al circuito MLOL (INTEGER)  
+  ***NuoveIscrizioniMLOL***: Numero di nuove iscrizioni al circuito MLOL   
+     &emsp; &emsp; (_MediaLibraryOnLine_, circuito biblioteche digitali) (INTEGER)  
   ***TitoliPrestatiMLOL***: Numero di titoli prestati tramite il circuito MLOL (INTEGER)  
 
 ## Frequenza di aggiornamento
