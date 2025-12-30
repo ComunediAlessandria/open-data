@@ -25,7 +25,7 @@ Delimitatore stringa: `"` (doppio apice, quando necessario)
 
 ## Frequenza di aggiornamento
 
-_Mai_- Essendo un dato storico il file non viene mai aggiornato, salvo errori.
+_Mai_ - Essendo un dato storico il file non viene mai aggiornato, salvo errori.
 
 ## Data ultimo aggiornamento
 
