@@ -17,7 +17,7 @@ Delimitatore stringa: `"` (doppio apice, quando necessario)
 - File CSV:  
   ***Mese***: Mese di competenza del dato (STRING)  
   ***Ingressi***: Numero totale di ingressi alla biblioteca (INTEGER)  
-  ***DiCui***: Numero degli ingressi riferita alle sale specifiche (INTEGER)  
+  ***DiCui***: Di cui ingressi alle sale lettura (INTEGER)  
   ***LibriPrestati***: Numero totale di libri concessi in prestito (INTEGER)  
   ***NuoveIscrizioni***: Numero di nuove iscrizioni alla biblioteca (INTEGER)  
   ***NuoveIscrizioniMLOL***: Numero di nuove iscrizioni al circuito MLOL   
