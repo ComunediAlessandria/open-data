@@ -30,5 +30,5 @@ _Annuale_
 
 ## Data ultimo aggiornamento
 
-**2025-04-03**
+**2026-02-03**
 
