@@ -559,7 +559,7 @@
   <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/ingressi-biblioteca/zip21">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/ingressi-biblioteca/ingressi-biblioteca-2024.csv.zip"/>
     <dct:license>
-      <dcatapit:LicenseDocument rdf:about="">
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
         <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
         <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
