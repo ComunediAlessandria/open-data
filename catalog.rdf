@@ -22,7 +22,7 @@
       <dct:title>Data Theme Vocabulary</dct:title>
     </skos:ConceptScheme>
   </dcat:themeTaxonomy>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-31</dct:modified>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-03</dct:modified>
   <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-27</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
   <dcat:dataset rdf:resource="https://github.com/ComunediAlessandria/open-data/segnalazioni-municipium"/>
@@ -68,7 +68,7 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-06</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-03</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-06</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.comune.alessandria.it"/>
     <dcat:keyword>Segnalazioni</dcat:keyword>
@@ -114,7 +114,7 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-06</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-03</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-06</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.comune.alessandria.it"/>
     <dcat:keyword>Numeri civici</dcat:keyword>
@@ -162,7 +162,7 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-06</dct:modified>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-03</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-02-06</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.comune.alessandria.it"/>
     <dcat:keyword>Alberi</dcat:keyword>
@@ -210,8 +210,8 @@
     </dct:subject>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-02</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-01</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-02-03</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-04-02</dct:issued>
     <dcat:contactPoint rdf:resource="https://www.comune.alessandria.it"/>
     <dcat:keyword>Comune</dcat:keyword>
     <dcat:keyword>Strada</dcat:keyword>
@@ -274,7 +274,7 @@
   <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/segnalazioni-municipium/csv2">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/segnalazioni-municipium/segnalazioni-municipium.csv"/>
     <dct:license>
-      <dcatapit:LicenseDocument rdf:about="">
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
         <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
         <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -289,7 +289,7 @@
   <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/segnalazioni-municipium/zip3">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/segnalazioni-municipium/segnalazioni-municipium.csv.zip"/>
     <dct:license>
-      <dcatapit:LicenseDocument rdf:about="">
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
         <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
         <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -304,7 +304,7 @@
   <dcatapit:Distribution rdf:about="https://github.com/ComunediAlessandria/open-data/numeri-civici/csv4">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/ComunediAlessandria/open-data/refs/heads/main/dataset/numeri-civici/numeri-civici.csv"/>
     <dct:license>
-      <dcatapit:LicenseDocument rdf:about="">
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
         <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
         <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -417,7 +417,7 @@
     </dct:license>
     <dct:format rdf:resource="ZIP"/>
     <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dct:description>File compresso in formato ZIP del file Alberi.gpkg</dct:description>
+    <dct:description>File compresso in formato ZIP del file Alberi.GPKG</dct:description>
     <dct:title>Alberi.gpkg.ZIP</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
@@ -447,7 +447,7 @@
     </dct:license>
     <dct:format rdf:resource="ZIP"/>
     <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dct:description>File in formato ZIP del file Viario.csv</dct:description>
+    <dct:description>File in formato ZIP del file Viario.CSV</dct:description>
     <dct:title>Viario.csv.ZIP</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
